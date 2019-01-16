@@ -1,0 +1,7 @@
+C:\Users\cema\source\repos\DBConnect\DBConnect\bin\Debug\DBConnect.exe.config
+C:\Users\cema\source\repos\DBConnect\DBConnect\bin\Debug\DBConnect.exe
+C:\Users\cema\source\repos\DBConnect\DBConnect\bin\Debug\DBConnect.pdb
+C:\Users\cema\source\repos\DBConnect\DBConnect\obj\Debug\DBConnect.csprojAssemblyReference.cache
+C:\Users\cema\source\repos\DBConnect\DBConnect\obj\Debug\DBConnect.csproj.CoreCompileInputs.cache
+C:\Users\cema\source\repos\DBConnect\DBConnect\obj\Debug\DBConnect.exe
+C:\Users\cema\source\repos\DBConnect\DBConnect\obj\Debug\DBConnect.pdb

@@ -1,0 +1,10 @@
+C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\bin\Debug\ReadFromFIle.exe.config
+C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\bin\Debug\ReadFromFIle.exe
+C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\bin\Debug\ReadFromFIle.pdb
+C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.csprojAssemblyReference.cache
+C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.Form1.resources
+C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.Properties.Resources.resources
+C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.csproj.GenerateResource.cache
+C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.csproj.CoreCompileInputs.cache
+C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.exe
+C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.pdb

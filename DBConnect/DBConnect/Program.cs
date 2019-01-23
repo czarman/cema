@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Data.SqlClient;
-
+//TODO - tu ladnie kodzik sformatowany:)
+//TODO ale wydziel to do klas, connection stringa przenieś do pliku app.config. Komendę Select możesz przenieść do jakiejś klasy SQLCommands(w tym przypadku może być statyczne :))
 namespace DBConnect
 {
     internal class Program

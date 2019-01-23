@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//TODO To co w poprzednich zadaniach - czyli czysty kod, wydzielone klasy itp :)
+
+
 namespace ReadFromFIle
 {
     public partial class Form1 : Form
@@ -18,11 +21,12 @@ namespace ReadFromFIle
         }
 
 
-
+        //TODO OpenFileDialog jest klasą, którą trzeba zwolnić po skończeniu używania. Dobrą praktyką jest tworzenie w miejscu gdzie potrzebujesz jej użyć i opakowanie w using
         OpenFileDialog ofd = new OpenFileDialog();
 
         private void PlikOsobowy_Click(object sender, EventArgs e)
         {
+            //TODO skoro uzywamy dialoga to dobrze byłoby dodać filter - żeby user mógł tylko plik tekstowy
             if(ofd.ShowDialog() == DialogResult.OK)
             {
                 PersonFilePath.Text = ofd.FileName;
@@ -41,8 +45,11 @@ namespace ReadFromFIle
 
         private void Start_Click(object sender, EventArgs e)
         {
+            //TODO Staraj sie nie uzywac zmiennych/metod/klas statycznych - taki kod jest cieżko testowalny. W niektórych frameworkach tylko stosuje się statyczne rzeczy(np MSPEC) ale w pozostalych przypadkach to jest zły pomysł :)
             Variables.finanseFilePath = FinanseFilePath.Text;
             Variables.personFilePath = PersonFilePath.Text;
+            //TODO Sprobuj wprowadzic klasę PersonData gdzie beda informacje o danych danej osoby i klase PersonDataReader - ktora ci takie info wypluje
+            //TODO Bedzie to testowalne, czytelne itp :)
             string[] person = System.IO.File.ReadAllLines(Variables.personFilePath);
             int sizeOfArray = person.Length;
             string[] finanse = System.IO.File.ReadAllLines(Variables.finanseFilePath);
@@ -65,6 +72,8 @@ namespace ReadFromFIle
                     { }
                     else
                     {
+                        //TODO Ło panie - ja za stary jestem, żeby to zrozumieć:D Sprobuj przerobić na klasy tak jak wyżej proponowałem, powinno to wyglądać czytelniej.
+                        //TODO Metoda string.Split może być pomocna
                         if (l.Substring(l.IndexOf(",", l.IndexOf(",") + 1) + 1, 11)==f.Substring(0,11))
                         {
                             i++;

@@ -8,3 +8,13 @@ C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.cspr
 C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.csproj.CoreCompileInputs.cache
 C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.exe
 C:\Users\cema\source\repos\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.pdb
+C:\ProjektyVS\ProjektyVS\cema\ReadFromFIle\ReadFromFIle\bin\Debug\ReadFromFIle.exe.config
+C:\ProjektyVS\ProjektyVS\cema\ReadFromFIle\ReadFromFIle\bin\Debug\ReadFromFIle.exe
+C:\ProjektyVS\ProjektyVS\cema\ReadFromFIle\ReadFromFIle\bin\Debug\ReadFromFIle.pdb
+C:\ProjektyVS\ProjektyVS\cema\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.csprojAssemblyReference.cache
+C:\ProjektyVS\ProjektyVS\cema\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.Form1.resources
+C:\ProjektyVS\ProjektyVS\cema\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.Properties.Resources.resources
+C:\ProjektyVS\ProjektyVS\cema\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.csproj.GenerateResource.cache
+C:\ProjektyVS\ProjektyVS\cema\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.csproj.CoreCompileInputs.cache
+C:\ProjektyVS\ProjektyVS\cema\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.exe
+C:\ProjektyVS\ProjektyVS\cema\ReadFromFIle\ReadFromFIle\obj\Debug\ReadFromFIle.pdb
